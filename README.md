@@ -1,16 +1,23 @@
-### Hi there 👋
+
+[![linkedin badge](https://img.shields.io/badge/Raj_Shah-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/rajshah121)  <t/> [![linkedin badge](https://img.shields.io/badge/RAJSHAH121-30302f?style=flat&logo=RSS)]()
 
 <!--
 **rajshah1/rajshah1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+### Hi Raj there 👋
+
+
+- 🔭 I’m currently working on finacial open-source projects .
+- 🌱 I’m currently learning React js, Go ,Google Cloud .
+- 👯 I’m looking to collaborate on microservices and Dev-Ops .
+- 🤔 I’m looking for help with flutter development and best practies .
+- 💬 Ask me about Spring boot and Mr. Trump.
+
+- 📫 How to reach me: [![twitter badge](https://img.shields.io/badge/RAJSHAH121-30302f?style=flat&logo=Jabber)](https://rajshah1.github.io/website/#hire) 
+
+- 😄 Pronouns: they / Them.
+
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/rajshah1)  
