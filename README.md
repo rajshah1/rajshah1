@@ -1,5 +1,5 @@
 
-[![linkedin badge](https://img.shields.io/badge/Raj_Shah-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/rajshah121)   [![linkedin badge](https://img.shields.io/badge/Web_Site-30302f?style=flat&logo=Jabber)](https://rajshah1.github.io/website)    
+[![linkedin badge](https://img.shields.io/badge/Raj_Shah-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/rajshah121)   [![linkedin badge](https://img.shields.io/badge/Web_Site-30302f?style=flat&logo=Jabber)](https://rajshah1.github.io)    
 
 <!--
 **rajshah1/rajshah1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
