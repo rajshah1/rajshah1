@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-### Hi Raj there 👋
+### Hi Raj Here 👋
 
 
 - 🔭 I’m currently working on finacial open-source projects .
