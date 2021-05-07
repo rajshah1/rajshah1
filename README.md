@@ -11,17 +11,17 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on finacial open-source projects .
 
-- 🌱 I’m currently learning React js, Go ,Google Cloud .
+- 🌱 I’m currently learning React Js , PHP OOP ,Symfony ,Doctrine ORM .
 
 - 👯 I’m looking to collaborate on microservices and Dev-Ops .
 
-- 🤔 I’m looking for help with flutter development and best practies .
+- 🤔 I’m looking for help with PHP Symfony Framework .
 
-- 💬 Ask me about Spring boot and Mr. Trump.
+- 💬 Ask me about Office Episodes and Spring Boot .
 
 - 📫 How to reach me: [![twitter badge](https://img.shields.io/badge/RAJ_SHAH77-30302f?style=flat&logo=Instagram)](https://www.instagram.com/rajshah_777/) 
 
-- 😄 Pronouns: they / Them.
+- 😄 Pronouns: He / His .
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/rajshah1)  
