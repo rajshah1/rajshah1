@@ -25,10 +25,11 @@ Here are some ideas to get you started:
 
 <p align="center" >
 <a href="https://github.com/rajshah1"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=rajshah1&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=rajshah1&include_all_commits=true&show_icons=true&theme=radical"/>
   </a>
 
 </p>
+
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/rajshah1)  
 
