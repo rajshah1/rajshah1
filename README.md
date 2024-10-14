@@ -9,13 +9,13 @@ Here are some ideas to get you started:
 ### Hi Raj Here 👋
 
 
-- 🔭 I’m currently working on finacial open-source projects and my Course Work .
+- 🔭 I’m currently working on Scalable Cloud Solutions for AWS EC2 Servers.
 
-- 🌱 I’m currently learning PHP OOP ,Symfony ,Doctrine ORM .
+- 🌱 I’m currently learning about All things AWS (Lambda, SWF, Step Functions )  .
 
-- 👯 I’m looking to collaborate on microservices and Dev-Ops Technology.
+- 👯 I’m looking to collaborate on microservices and Dev-Ops technology.
 
-- 🤔 I’m looking for help with PHP Symfony Framework .
+- 🤔 I’m looking for help with AWS .
 
 - 💬 Ask me about Office Episodes and Spring Boot .
 
